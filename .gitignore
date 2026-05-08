@@ -1,0 +1,16 @@
+/.agent-shell/
+
+# Emacs byte-compiled files
+*.elc
+
+# Emacs backup / auto-save files
+*~
+\#*\#
+.\#*
+
+# Nix build outputs
+/result
+/result-*
+
+# MELPA local build artifacts
+/.melpa/
